@@ -100,7 +100,7 @@ const styles = StyleSheet.create({
     activeOpacity: 0.7,
   },
   buttonText: {
-    color: 'white',
+    color: 'brown',
   },
 });
 export default LifecycleComponent;
